@@ -1,0 +1,5 @@
+documento;nombres;celular;genero
+1128;Maria Santa;3102030;1
+1111;Mario Santo;3122030;0
+2323;jorge perez;3200000;0
+2445;Ines Jaramillo;3124555;1
